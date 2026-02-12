@@ -55,7 +55,12 @@
               {% endif %}
             </a>
           </li>
-
+          <!-- CV -->
+          <li class="nav-item">
+            <a class="nav-link" target="_blank" rel="noopener" href="https://drive.google.com/file/d/1gx8-6PmCciM138FRzJ1pjHy9qVyJsDes/view?usp=sharing">
+              CV
+            </a>
+          </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
@@ -117,6 +122,7 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% comment %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
@@ -125,6 +131,7 @@
               </button>
             </li>
           {% endif %}
+          {% endcomment %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">

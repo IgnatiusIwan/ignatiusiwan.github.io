@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -19,12 +19,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a recent graduate from Hankuk University of Foreign Studies at Department of Industrial and Management Engineering. Previously my researchs focus on developing human activity recognition model among collaborative clients (federated learning) under heterogenous settings.
+I am a recent graduate of the Department of Industrial and Management Engineering at Hankuk University of Foreign Studies. Previously, my research focused on developing human activity recognition models for collaborative clients (federated learning) under heterogeneous settings.
 
 #### ⌛ Previously
 

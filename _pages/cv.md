@@ -1,8 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+redirect: https://drive.google.com/file/d/1gx8-6PmCciM138FRzJ1pjHy9qVyJsDes/view?usp=sharing
 title: CV
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: https://drive.google.com/file/d/1gx8-6PmCciM138FRzJ1pjHy9qVyJsDes/view?usp=sharing # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
