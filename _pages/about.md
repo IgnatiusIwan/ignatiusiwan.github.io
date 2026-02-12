@@ -28,7 +28,7 @@ I'm a recent graduate from Hankuk University of Foreign Studies at Department of
 
 #### ⌛ Previously
 
-- 🎓 I studied and graduated as an PhD.Eng in [The Hong Kong University of Science and Technology, Hong Kong 🇭🇰](https://hkust.edu.hk/) from 2021 to 2025. I was under the supervision of Professor [Seok-Lyong Lee](https://scholar.google.com/citations?user=OPcK7J0AAAAJ&hl=ko) and Professor [Bernardo Nugoroho Yahya](https://scholar.google.com/citations?user=I2UXgu0AAAAJ&hl=en). 
+- 🎓 I studied and graduated as an PhD.Eng in [Hankuk University of Foreign Studies, South Korea 🇰🇷](https://www.hufs.ac.kr/hufs/index.do) from 2021 to 2025. I was under the supervision of Professor [Seok-Lyong Lee](https://scholar.google.com/citations?user=OPcK7J0AAAAJ&hl=ko) and Professor [Bernardo Nugoroho Yahya](https://scholar.google.com/citations?user=I2UXgu0AAAAJ&hl=en). 
 
 - From April 2022 to September 2022, I received scholarship and did work experience at [Daewoong Foundation, South Korea 🇰🇷](https://www.daewoongfoundation.or.kr/).
 
