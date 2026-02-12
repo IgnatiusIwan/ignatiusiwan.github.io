@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a recent graduate from Hankuk University of Foreign Studies at Department of Industrial and Management Engineering. Previously my researchs focus on developing human activity recognition model among collaborative clients (federated learning) under heterogenous settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### ⌛ Previously
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- 🎓 I studied and graduated as an PhD.Eng in [The Hong Kong University of Science and Technology, Hong Kong 🇭🇰](https://hkust.edu.hk/) from 2021 to 2025. I was under the supervision of Professor [Seok-Lyong Lee](https://scholar.google.com/citations?user=OPcK7J0AAAAJ&hl=ko) and Professor [Bernardo Nugoroho Yahya](https://scholar.google.com/citations?user=I2UXgu0AAAAJ&hl=en). 
+
+- From April 2022 to September 2022, I received scholarship and did work experience at [Daewoong Foundation, South Korea 🇰🇷](https://www.daewoongfoundation.or.kr/).
+
+- From October 2020 to February 2021, I did an intership with the AI team  at [Qlue Smart City, Indonesia 🇮🇩](https://www.instagram.com/qluesmartcity/?hl=en)
+
+- 🎓 I got my Bachelor's degree from the undergraduate program of Electronic and Instrumentation at [Gadjah Mada University, Indonesia 🇮🇩](https://ugm.ac.id/en/) in 2020.
+
+
+#### 🏆 Awards
+- **Excellent Paper Award** at ABC 2025 for [Mixture of Global and Personalized Model for Human Activity Recognition in Federated Learning](https://www.jstage.jst.go.jp/article/ijabc/2025/1/2025_50/_article/-char/ja/)
+ (_April 2025_ )
+
+#### 💡 Interests
+
+As of now, I'm learning agentic application with large language model.
+
+--------
+
+<b>You can take a look at my resume [here](https://drive.google.com/file/d/1gx8-6PmCciM138FRzJ1pjHy9qVyJsDes/view?usp=sharing).</b>
+
+If you are interested in collaborating or discussing this, please feel free to reach out to me via [email](mailto:mania087@gmail.com).
