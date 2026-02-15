@@ -47,6 +47,6 @@ As of now, I'm learning agentic application with large language model.
 
 --------
 
-<b>You can take a look at my resume [here](https://drive.google.com/file/d/1gx8-6PmCciM138FRzJ1pjHy9qVyJsDes/view?usp=sharing).</b>
+<b>You can take a look at my resume [here](https://docs.google.com/document/d/e/2PACX-1vSM1lHocCMLdX1ip4ipk3tXCA0muxjIZy7flk-eWPxsBQfUTxymGmfcXVer__ZucdzAF7w2_sDTRqX5/pub).</b>
 
 If you are interested in collaborating or discussing this, please feel free to reach out to me via [email](mailto:mania087@gmail.com).
