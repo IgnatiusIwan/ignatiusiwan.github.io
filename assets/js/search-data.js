@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-portofolio",
+          title: "Portofolio",
+          description: "A nostalgic collection of the things that I worked on (Work in Progress ... 😊)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -30,51 +37,29 @@ ninja.data = [{
           section: "News",},{id: "news-i-defended-my-ph-d-thesis-on-8-december-2025-and-will-receive-my-degree-on-20-february-2026",
           title: 'I defended my Ph.D thesis on 8 December 2025 🎓 and will receive...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-i-received-my-doctoral-degree-on-20-february-2026-and-currently-looking-for-another-opportunities",
+          title: 'I received my doctoral degree on 20 February 2026 🎓 and currently looking...',
+          description: "",
+          section: "News",},{id: "projects-fedcllm",
+          title: 'FedCLLM',
+          description: "Federated client selection assisted large language model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-pysft-bearing-simulation",
+          title: 'Pysft Bearing Simulation',
+          description: "Simulation of Pysft framework in Bearing dataset",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-autoencoder-anomaly-detection",
+          title: 'Autoencoder Anomaly Detection',
+          description: "Utilization of autoencoder reconstruction error to detect anomalies and simulation of training in federated learning environment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-federated-har-transfer-learning",
+          title: 'Federated HAR transfer learning',
+          description: "Coding implementation of Federated HAR transfer learning (FedHealth)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
