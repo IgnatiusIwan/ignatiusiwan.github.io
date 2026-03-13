@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Pysft Bearing Simulation 
+description: Simulation of Pysft framework in Bearing dataset
+img: https://miro.medium.com/v2/resize:fit:898/1*Ops0ZjcU0GuDi4vl0t_Zbw.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This is a simple example of using PySyft for federated learning, There are 2 data owners for simulation. The dataset used are from CWRU Bearing dataset
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-5 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://cdn.prod.website-files.com/63f902d79a33f7ff016cde0b/6446a9a7f20dc46cd5d621e8_63dd2a7c92bfb11dd6bcb807_ISjjlFxTE7i0p2bVWsd6fQFUIz5Kuw6AmEtVM3nkisJEs-Vg1Anpsel3W62dq-cQ_GNCHF9NCkiyTskEI8rZYpov1PeJNioTegm9TFs4zKXpSwYF7YyC4Wbqn8RWlYeIFdEkmySlFfjvv9oM0bwuvqk.png" title="example of Pysft Framework" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-5 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://miro.medium.com/v2/resize:fit:898/1*Ops0ZjcU0GuDi4vl0t_Zbw.png" title="example of CWRU bearing image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Pysft framework and Bearing image
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+    <div class="repo p-2 text-center">
+        <a href="https://github.com/IgnatiusIwan/bearing_fl">
+            <img
+            class="only-light w-100"
+            alt="https://github.com/IgnatiusIwan/bearing_fl"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=IgnatiusIwan&repo=bearing_fl&theme=default&locale=en&show_owner=false&description_lines_count=2"
+            >
+            <img
+            class="only-dark w-100"
+            alt="https://github.com/IgnatiusIwan/bearing_fl"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=IgnatiusIwan&repo=bearing_fl&theme=dark&locale=en&show_owner=false&description_lines_count=2"
+            >
+        </a>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
