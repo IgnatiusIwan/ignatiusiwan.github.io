@@ -60,6 +60,16 @@ ninja.data = [{
           description: "Coding implementation of Federated HAR transfer learning (FedHealth)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-sharing-fun-facts-about-indonesia",
+          title: 'Sharing Fun Facts about Indonesia',
+          description: "This was a volunteering activity where I showed fun facts about Indonesia to Children",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-design-recruitment-poster-portofolio",
+          title: 'Design Recruitment Poster Portofolio',
+          description: "Old design for graduate student recruitment in HUFS.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
