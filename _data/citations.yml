@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-08'
 papers:
   w_tMryAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'FedEach: Federated Learning with Evaluator-Based Incentive Mechanism for Human Activity Recognition'
     year: '2025'
   w_tMryAAAAAJ:UeHWp8X0CEIC:
-    citations: 5
+    citations: 6
     title: Federated model with contrastive learning and adaptive control variates for human activity recognition
     year: '2025'
   w_tMryAAAAAJ:W7OEmFMy1HYC:
