@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   w_tMryAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: Federated Learning Framework for Collaborative Time Series Anomaly Detection on Distributed Machines
     year: '2024'
   w_tMryAAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: Vertical federated process mining framework for inter-organizational supply chain process discovery
     year: '2026'
   w_tMryAAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 6
     title: 'FedEach: Federated Learning with Evaluator-Based Incentive Mechanism for Human Activity Recognition'
     year: '2025'
   w_tMryAAAAAJ:UeHWp8X0CEIC:
