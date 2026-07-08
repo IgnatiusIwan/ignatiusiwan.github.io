@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   w_tMryAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -62,6 +62,6 @@ papers:
     title: "Peatland Forest Fire Prevention Using Wireless Sensor Network Based on Na\xEFve Bayes Classifier"
     year: '2019'
   w_tMryAAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: 'FedCLLM: Federated client selection assisted large language model utilizing domain description'
     year: '2025'
