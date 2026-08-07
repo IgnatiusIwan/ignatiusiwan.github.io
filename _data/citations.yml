@@ -1,13 +1,21 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-07'
 papers:
+  w_tMryAAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Modelo federado para el reconocimiento de actividad humana basado en aprendizaje contrastivo y control adaptativo de variables
+    year: '2025'
   w_tMryAAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Federated Representation Learning with Pseudo-Labeling Personalization for Human Activity Recognition
     year: Unknown Year
+  w_tMryAAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: "\u0646\u0645\u0648\u0630\u062C \u0641\u064A\u062F\u0631\u0627\u0644\u064A \u0644\u0644\u062A\u0639\u0631\u0641 \u0639\u0644\u0649 \u0646\u0634\u0627\u0637 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0642\u0627\u0626\u0645 \u0639\u0644\u0649 \u0627\u0644\u062A\u0639\u0644\u0645 \u0627\u0644\u062A\u0628\u0627\u064A\u0646\u064A \u0648\u0627\u0644\u062A\u062D\u0643\u0645 \u0627\u0644\u062A\u0643\u064A\u0641\u064A \u0641\u064A \u0627\u0644\u0645\u062A\u063A\u064A\u0631\u0627\u062A\u200E"
+    year: '2025'
   w_tMryAAAAAJ:9yKSN-GCB0IC:
     citations: 2
-    title: 'Fed-SIc: Selecting Important Clients for Federated Learning'
+    title: 'Fed-Sic: selecting important clients for federated learning'
     year: '2023'
   w_tMryAAAAAJ:IjCSPb-OGe4C:
     citations: 1
@@ -19,10 +27,10 @@ papers:
     year: '2026'
   w_tMryAAAAAJ:Tyk-4Ss8FVUC:
     citations: 6
-    title: 'FedEach: Federated Learning with Evaluator-Based Incentive Mechanism for Human Activity Recognition'
+    title: 'Fedeach: Federated learning with evaluator-based incentive mechanism for human activity recognition'
     year: '2025'
   w_tMryAAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 7
     title: Federated model with contrastive learning and adaptive control variates for human activity recognition
     year: '2025'
   w_tMryAAAAAJ:UebtZRa9Y70C:
@@ -45,6 +53,10 @@ papers:
     citations: 2
     title: A framework for privacy-preserved collaborative learning in smart factory environment
     year: '2022'
+  w_tMryAAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: "Mod\xE8le f\xE9d\xE9r\xE9 pour la reconnaissance d\u2019activit\xE9 humaine bas\xE9 sur l\u2019apprentissage contrastif et le contr\xF4le adaptatif des variables"
+    year: '2025'
   w_tMryAAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Image-to-Text approach with Large Language Model for Client Selection in Federated Learning
@@ -58,7 +70,7 @@ papers:
     title: Federated Domain Adaptation based Human Activity Recognition using FADA and CORAL
     year: '2022'
   w_tMryAAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: "Peatland Forest Fire Prevention Using Wireless Sensor Network Based on Na\xEFve Bayes Classifier"
     year: '2019'
   w_tMryAAAAAJ:zYLM7Y9cAGgC:
